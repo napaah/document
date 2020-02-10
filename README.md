@@ -30,7 +30,7 @@
 │   ├── filters                # 全局 filter
 │   ├── icons                  # 项目所有 svg icons
 │   ├── layout                 # 全局 layout
-│   ├── layout                 # 项目mock 模拟数据
+│   ├── mock                   # 项目mock 模拟数据
 │   ├── router                 # 路由
 │   ├── store                  # 全局 store管理
 │   ├── utils                  # 全局公用方法
